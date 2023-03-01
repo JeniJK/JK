@@ -1,0 +1,2 @@
+cd C:\Users\jenni\eclipse-workspace\Mukesh_project
+mvn clean install
